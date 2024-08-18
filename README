@@ -1,0 +1,4 @@
+## create unit test ##
+- 
+- penamaan file harus diakhiri dengan "_test.go"
+- nah jangan pake panic() ntar ada yang ga kejalan test yang lain
